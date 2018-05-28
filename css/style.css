@@ -119,3 +119,8 @@ p {
     width: 50%;
     text-align: center;
 }
+
+.article p {
+    font-size: 1em;
+    font-weight: 400;
+}
